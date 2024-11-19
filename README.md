@@ -1,4 +1,4 @@
-# Legacy Argent Rose starting point
+# Legacy Argent Rose.
 
 Initial code.
 
